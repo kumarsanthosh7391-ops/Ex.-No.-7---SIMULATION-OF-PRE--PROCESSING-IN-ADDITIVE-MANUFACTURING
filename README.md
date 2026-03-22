@@ -55,8 +55,8 @@
 
 
 
-### Name:
-### Register Number:
+### Name: SANTHOSH KUMAR SS
+### Register Number: 212225230251
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
